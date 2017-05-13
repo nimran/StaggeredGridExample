@@ -1,0 +1,46 @@
+{
+    "appname": "Android OS",
+    "version": "1",
+    "versions": [
+        {
+            "title": "Nougat",
+            "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqCgSy7BfHASbURu-CvklYqAXs3r3eTVcGyDxfAZESVg6Hy_FML1nGHVDp",
+            "color": "yellow",
+            "details": {
+                "name": "Nougat",
+                "version": "7.0",
+                "description": "Nougat is 7th major version"
+            }
+        },
+        {
+            "title": "Marshmallow",
+            "imageUrl": "https://i1.wp.com/thedroidreview.com/wp-content/uploads/2015/09/Android-M-Pink-Logo.jpg?fit=728%2C437",
+            "color": "red",
+            "details": {
+                "name": "Marshmallow",
+                "version": "6.0",
+                "description": "Marshmallow is 6th major version"
+            }
+        },
+        {
+            "title": "Lollipop",
+            "imageUrl": "http://orig03.deviantart.net/45b6/f/2015/246/8/2/android_lollipop_logo__battlefield_4_emblem__by_evildog1-d987c3i.png",
+            "color": "blue",
+            "details": {
+                "name": "Lollipop",
+                "version": "5.0",
+                "description": "Lollipop is 5th major version"
+            }
+        },
+        {
+            "title": "Kitkat",
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Android_KitKat_Logo.jpg",
+            "color": "green",
+            "details": {
+                "name": "Kitkat",
+                "version": "4.4",
+                "description": "Kitkat is 4th major version"
+            }
+        }
+    ]
+}
